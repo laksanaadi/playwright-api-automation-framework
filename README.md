@@ -23,3 +23,9 @@ $ cd playwright-api-automation-framework
 $ npm install
 $ npx playwright install
 ```
+
+## How to Run the Test:
+1. run npx playwright test
+
+## API Used for Testing:
+1. http://www.omdbapi.com/
